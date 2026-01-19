@@ -1,2 +1,5 @@
-# hello-github
-My first public repository
+# Hello 👋
+
+I'm Hiraina.  
+This is my first public GitHub repository.
+
